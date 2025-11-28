@@ -28,4 +28,5 @@ Pada halaman ini terdapat beberapa bagian utama, yaitu:
 * **Data Pengunjung**
   Menampilkan daftar pengunjung yang telah mengisi formulir sebelumnya sebagai bentuk penyimpanan data yang terhubung dengan sistem input.
 
-Landing page ini dikembangkan menggunakan teknologi dasar pemrograman web seperti HTML, CSS, dan JavaScript untuk mengatur struktur, tampilan, serta interaksi pengguna. Dengan desain yang responsif dan struktur konten yang jelas, landing page ini diharapkan dapat menjadi media pengenalan digital yang efektif terhadap Surabaya North Quay.
+Landing page ini dikembangkan menggunakan teknologi dasar pemrograman web seperti HTML, CSS, JavaScript, dan Bootstrap untuk mengatur struktur, tampilan, serta interaksi pengguna. Dengan desain yang responsif dan struktur konten yang jelas, landing page ini diharapkan dapat menjadi media pengenalan digital yang efektif terhadap Surabaya North Quay.
+
