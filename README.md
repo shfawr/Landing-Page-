@@ -15,18 +15,23 @@ Landing Page Surabaya North Quay adalah sebuah halaman web sederhana yang dibuat
 Pada halaman ini terdapat beberapa bagian utama, yaitu:
 
 * **Tentang Surabaya North Quay**
+
   Menyajikan deskripsi singkat mengenai kawasan wisata tepi laut yang menjadi tempat bersandarnya kapal pesiar internasional, serta suasana sunset yang menjadi daya tarik utama.
 
 * **Fasilitas & Atraksi**
+
   Menampilkan informasi mengenai berbagai fasilitas dan hiburan yang tersedia di Surabaya North Quay, seperti area kuliner, spot foto, dan ruang publik bagi wisatawan.
 
 * **Galeri**
+
   Berisi kumpulan gambar visual yang merepresentasikan suasana serta keindahan kawasan Surabaya North Quay, sehingga pengunjung dapat membayangkan pengalaman wisata yang ditawarkan.
 
 * **Formulir Pengunjung**
+
   Menyediakan form untuk mengumpulkan data pengunjung secara sederhana, seperti nama dan informasi dasar lainnya.
 
 * **Data Pengunjung**
+
   Menampilkan daftar pengunjung yang telah mengisi formulir sebelumnya sebagai bentuk penyimpanan data yang terhubung dengan sistem input.
 
 Landing page ini dikembangkan menggunakan teknologi dasar pemrograman web seperti HTML, CSS, JavaScript, dan Bootstrap untuk mengatur struktur, tampilan, serta interaksi pengguna. Dengan desain yang responsif dan struktur konten yang jelas, landing page ini diharapkan dapat menjadi media pengenalan digital yang efektif terhadap Surabaya North Quay.
